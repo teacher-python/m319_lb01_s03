@@ -1,0 +1,74 @@
+[
+  {
+    "name": "test_list_1",
+    "function": "test_list_1",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_list_2",
+    "function": "test_list_2",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_days_1",
+    "function": "test_days_1",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_days_2",
+    "function": "test_days_2",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_days_3",
+    "function": "test_days_3",
+    "timeout": 10,
+    "points": 0
+  },
+  {
+    "name": "test_number_1",
+    "function": "test_number_1",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_number_2",
+    "function": "test_number_2",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_stones_1",
+    "function": "test_stones_1",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_stones_2",
+    "function": "test_stones_2",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_stones_3",
+    "function": "test_stones_3",
+    "timeout": 10,
+    "points": 0
+  },
+  {
+    "name": "test_count_1",
+    "function": "test_count_1",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_count_2",
+    "function": "test_count_2",
+    "timeout": 10,
+    "points": 1
+  }
+]
